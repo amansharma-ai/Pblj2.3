@@ -132,3 +132,4 @@ public class LambdaStreamDemo {
         System.out.println("Average Price: " + avgPrice);
     }
 }
+
